@@ -1,5 +1,9 @@
 # Diabetes Prediction Notebook
-## _A jupyter notebook data analysis and predicting model of the PIMA Indians Diabetes dataset from Kaggle._
+## _A data analysis and predicting model of the PIMA Indians Diabetes dataset from Kaggle._
+
+<img src='https://github.com/Dipankar-Medhi/diabetes_prediction/blob/master/Diabetes-Predict1.png' >
+
+[Live Demo](https://diabetes-web-app.vercel.app/)
 
 
 ## Dataset
