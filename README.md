@@ -20,7 +20,7 @@
 - Outcome - Class variable (0 or 1) 268 of 768 are 1, the others are 0
 
 ### Source
-The original dataset is available at UCI Machine Learning Repository and can be downloaded from this address: [dataset]
+The original dataset is available at UCI Machine Learning Repository
 
 ### EDA 
 #### Correlation Matrix
